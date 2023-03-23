@@ -1,0 +1,145 @@
+commit 21fdf16ccd5b9101aedc602f9abbcf447a1cc6ec
+Author: Anushka <anushka.y0101@gmail.com>
+Date:   Thu Mar 9 15:34:05 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 4198a8d..711ecbe 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,4 +1,6 @@
+ Anushka Yadav Computer Science
+ 
+ cakesalley
+-harry potter
+\ No newline at end of file
++harry potter
++
++white
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 97afa53..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1,2 +0,0 @@
+-2025
+-programmer
+\ No newline at end of file
+
+commit e57d2fccb2ebc68acf9f32374a3567f1194e816a
+Author: Anushka <anushka.y0101@gmail.com>
+Date:   Thu Mar 9 15:23:42 2023 +0530
+
+    Commiting file 2
+
+diff --git a/file2.txt b/file2.txt
+index 48b83b8..97afa53 100644
+--- a/file2.txt
++++ b/file2.txt
+@@ -1 +1,2 @@
+-ABC
+\ No newline at end of file
++2025
++programmer
+\ No newline at end of file
+
+commit e9bb222fe9997a4e73adb62da904219d53b96d02
+Author: Anushka <anushka.y0101@gmail.com>
+Date:   Thu Mar 9 14:46:59 2023 +0530
+
+    Added favourite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 5f4a82f..4198a8d 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,4 @@
+ Anushka Yadav Computer Science
+ 
++cakesalley
++harry potter
+\ No newline at end of file
+
+commit c8dbc7f1e0a8c1c875ed344c2b662e74b445c3b1
+Author: Anushka <anushka.y0101@gmail.com>
+Date:   Thu Mar 9 14:39:55 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index ec2ba35..5f4a82f 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,4 +1,2 @@
+ Anushka Yadav Computer Science
+ 
+-CakeAlley
+-Harry potter
+\ No newline at end of file
+
+commit b75502784030147cbe1e942ff9d6224825be89c5
+Author: Anushka <anushka.y0101@gmail.com>
+Date:   Thu Mar 9 14:32:38 2023 +0530
+
+    Commiting a new file with my name
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..48b83b8
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++ABC
+\ No newline at end of file
+
+commit a1d7de491d7e26c68a8b7f69ef47ee2113dd345b
+Author: Anushka <a@gmail.com>
+Date:   Thu Mar 2 15:43:38 2023 +0530
+
+    Added favourite food and movie
+
+diff --git a/file1.txt b/file1.txt
+index 8140551..ec2ba35 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,4 @@
+-Anushka Yadav Computer Science
+\ No newline at end of file
++Anushka Yadav Computer Science
++
++CakeAlley
++Harry potter
+\ No newline at end of file
+
+commit 0ac03e93fc87963d44f1660a699fdf6c558a4ea4
+Author: Anushka <a@gmail.com>
+Date:   Thu Mar 2 15:41:08 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 2a35e9a..8140551 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Anushka Yadav BT21CSE127#
+\ No newline at end of file
++Anushka Yadav Computer Science
+\ No newline at end of file
+
+commit 3d316eb989e7c23b6780e4cf4cb02511e9134964
+Author: Anushka <a@gmail.com>
+Date:   Thu Mar 2 15:35:18 2023 +0530
+
+    Commiting a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..2a35e9a
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Anushka Yadav BT21CSE127#
+\ No newline at end of file
